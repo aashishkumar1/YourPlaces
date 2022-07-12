@@ -2,7 +2,9 @@ import React from 'react'
 
 const NewPlace = () => {
   return (
-    <div>NewPlace</div>
+    <form className='place-form'>
+      
+    </form>
   )
 }
 
